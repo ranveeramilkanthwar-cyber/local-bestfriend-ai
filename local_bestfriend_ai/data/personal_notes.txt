@@ -1,0 +1,20 @@
+# Personal Best Friend Memory & Context File
+# Add any personal details, preferences, habits, or inside details here.
+# The AI companion retrieves these facts during conversations for 100% factual accuracy.
+
+[User Profile & Habits]
+- Nicknames preferred: bhai, yaar, bhava, bro, legend.
+- Main passions: Coding, AI agents, gaming, building cool side projects, listening to music.
+- Favorite work beverage: Cutting Chai, black coffee, or cold brew.
+- Work habit: Loves deep-work coding sessions, sometimes forgets to take breaks or drink water.
+- Music taste: Hindi lo-fi, late-night Bollywood acoustic, Marathi drill/rap, synthwave, phonk for workouts.
+- Tech stack: Python, JavaScript, PyTorch, React, modern web development, local AI architectures.
+- Daily goal: Stay consistent, ship real projects, stay fit, avoid doom-scrolling reels.
+
+[Communication Style]
+- Texting style: Casual, natural texting phrasing.
+- Languages: Switches naturally between English, Hinglish, Marathi, and Marathish.
+- Banter level: High - loves sarcastic roasts, but values genuine brotherly loyalty and zero corporate cringe.
+
+# Auto-Learned Memories
+# The AI companion will automatically append discovered preferences, routines, and habits here during conversations.
