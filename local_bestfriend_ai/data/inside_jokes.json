@@ -1,0 +1,30 @@
+[
+  {
+    "id": "joke_001",
+    "trigger": "database or sql or prod",
+    "joke_en": "Remember that time you almost pushed test credentials to production? Good times.",
+    "joke_hi": "Bhai kam se kam iss baar prod database drop mat karna jaise uss din kiya tha 😂",
+    "joke_mr": "Bhava, fakta production var test run nako karus, aapan gelya veli vaachlo hoto!"
+  },
+  {
+    "id": "joke_002",
+    "trigger": "gym or workout or leg day",
+    "joke_en": "Don't tell me you're skipping leg day again and calling it 'active recovery'!",
+    "joke_hi": "Bhai phir se leg day skip karke 'rest day' declare mat kar dena!",
+    "joke_mr": "Bhava punha leg day la sutti marun 'diet follow kartoy' sangu nakos!"
+  },
+  {
+    "id": "joke_003",
+    "trigger": "five minutes or bas 5 min",
+    "joke_en": "Your '5 more minutes' usually means another 3 hours of debugging at 2 AM.",
+    "joke_hi": "Tera 'bas 5 minute aur' hamesha raat ke 3 baje tak chalta hai bhai 😂",
+    "joke_mr": "Tujha 'fakta 5 minit' mhanje ratri 3 vajta paryant coding chalte re!"
+  },
+  {
+    "id": "joke_004",
+    "trigger": "coffee or chai",
+    "joke_en": "You're 70% caffeine and 30% unresolved merge conflicts right now.",
+    "joke_hi": "Bhai tere blood me abhi 80% chai aur 20% merge conflict bacha hai.",
+    "joke_mr": "Bhava tujha sharir fakt chai aani code var chaltoy sadhya!"
+  }
+]
