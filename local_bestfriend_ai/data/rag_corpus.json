@@ -1,0 +1,177 @@
+[
+  {
+    "category": "Identity & Basics",
+    "topic": "Nicknames & Salutations",
+    "content": "User prefers being called bhai, bhava, bro, yaar, or legend. Hates formal greetings like 'Hello Sir' or 'Greetings'. Prefers direct, energetic greetings like 'Ayy brother!', 'Kya haal hai bhava!', or 'Sup man!'."
+  },
+  {
+    "category": "Identity & Basics",
+    "topic": "Language Preferences",
+    "content": "User fluently switches between Hinglish (casual Hindi in Roman script), Marathish (casual Marathi in Roman script), Devanagari Hindi/Marathi, and English. The tone should always mirror the user's chosen language and script without awkward Google-translated phrases."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Core Tech Stack",
+    "content": "User's core tech stack includes Python (PyTorch, FastAPI, HuggingFace, Unsloth), JavaScript/TypeScript (React, Three.js, Node.js), Docker, Linux, and local AI agent workflows. Strong interest in local offline LLMs running on consumer hardware."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Work Habits & Pitfalls",
+    "content": "User gets into deep flow state for 4-6 hours at a stretch. Often forgets to drink water, stretch, or eat meals on time during intense debugging sessions. Appreciates playful reminders to step away from the keyboard and get chai."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Hardware Setup",
+    "content": "User runs an NVIDIA GeForce RTX 5050 Laptop GPU (8GB VRAM) on Windows with CUDA 13.2 and Ollama. Enjoys squeezing maximum efficiency out of local 4-bit and quantized models (Phi-3, Qwen-2.5, GGUF)."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Git Conflict Resolution",
+    "content": "When dealing with Git merge conflicts, never force push blindly. Use 'git status' to inspect modified files, resolve markers with VS Code 3-way editor, run tests, and commit. If a merge goes catastrophically wrong, run 'git merge --abort' to return to safe state."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Docker & Containerization Best Practices",
+    "content": "Use multi-stage Docker builds to minimize image sizes. Leverage .dockerignore to keep node_modules and .venv out of the build context. For local development, bind mounts allow hot-reloading without rebuilding images."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Debugging 502 Bad Gateway Errors",
+    "content": "A 502 Bad Gateway error indicates that a reverse proxy (like Nginx, Traefik, or Caddy) cannot communicate with the upstream backend application (FastAPI, Express, Django). Common causes: upstream service is stopped or crashed, incorrect port in proxy_pass configuration, or firewall blocking loopback communication."
+  },
+  {
+    "category": "Career & Tech",
+    "topic": "Python Performance Optimization",
+    "content": "For high-performance Python, avoid Python loops in matrix calculations by utilizing NumPy or PyTorch vectorization. Use generators for memory-efficient stream processing. Profile bottlenecks using cProfile or PySpy before attempting premature optimization."
+  },
+  {
+    "category": "Fitness & Lifestyle",
+    "topic": "Gym & Workout Routine",
+    "content": "Follows a Push-Pull-Legs (PPL) split. Bench press PR is 100kg. Loves heavy compound lifts: Barbell Squats, Romanian Deadlifts, Overhead Press, and Incline Dumbbell Press. Known to occasionally reschedule or skip leg day when tired, which is a prime target for friendly roasts. Drinks whey protein and black coffee or pre-workout."
+  },
+  {
+    "category": "Fitness & Lifestyle",
+    "topic": "Diet & Food Cravings",
+    "content": "Attempts to follow a high-protein diet (target 1.6-2.0g per kg of bodyweight), but has a weak spot for spicy Vada Pav, Chicken Biryani, cutting chai from roadside stalls, and midnight pizza when pulling all-nighters. Favorite comfort beverage is hot ginger cutting chai."
+  },
+  {
+    "category": "Fitness & Lifestyle",
+    "topic": "Creatine & Supplementation Science",
+    "content": "Creatine Monohydrate (3-5 grams daily) increases intramuscular phosphocreatine stores, boosting strength output, ATP regeneration during heavy sets, and cognitive function. Loading phase (20g/day for 5 days) is optional; taking 5g daily reaches muscle saturation in ~3-4 weeks. Always maintain high water intake."
+  },
+  {
+    "category": "Fitness & Lifestyle",
+    "topic": "Recovery & Sleep Hygiene",
+    "content": "Muscles grow during deep sleep through human growth hormone (HGH) release, not during the workout itself. Aim for 7.5 to 8.5 hours of uninterrupted sleep. Avoid blue light screens 45 minutes before bed, keep the bedroom cool, and finish caffeine at least 8 hours prior to sleeping."
+  },
+  {
+    "category": "Culinary & Street Food",
+    "topic": "The Perfect Cutting Chai Recipe",
+    "content": "Authentic Mumbai cutting chai uses strong CTC black tea leaves, crushed fresh ginger (adrak), green cardamom pods (elaichi), water, whole milk, and sugar. The secret is boiling the water, tea, and spices first for 3 minutes until dark and aromatic, then adding milk and bringing to 3 rolling boils ('kadak ubaal') before straining into glass cups."
+  },
+  {
+    "category": "Culinary & Street Food",
+    "topic": "Vada Pav Culture & Lore",
+    "content": "Invented by Ashok Vaidya outside Dadar railway station in Mumbai in 1966 as an affordable, portable fuel for mill workers. Consists of a spiced mashed potato ball (batata vada) coated in chickpea flour batter (besan), deep fried, and stuffed into a pav smeared with fiery dry garlic-coconut chutney (lasun chutney) and green mint-coriander chutney."
+  },
+  {
+    "category": "Entertainment & Culture",
+    "topic": "Music Preferences",
+    "content": "Music changes with activity: Late-night coding: Hindi lo-fi beats, Anuv Jain, Prateek Kuhad, acoustic Arijit Singh midnight mixes. Workouts & Gym: High-BPM Phonk, Marathi Drill/Hip-hop, hardcore instrumental. Chilling: Retro Bollywood, indie rock, synthwave."
+  },
+  {
+    "category": "Entertainment & Culture",
+    "topic": "Gaming & Humor",
+    "content": "Plays PC games (Valorant, GTA, CS2). Frequently rants about toxic teammates in competitive matchmaking. Loves dark humor, sarcastic roasts, tech memes, and classic Desi pop culture references (Hera Pheri, Munna Bhai, 3 Idiots)."
+  },
+  {
+    "category": "Travel & Aspirations",
+    "topic": "Travel Plans & Memes",
+    "content": "Has planned a Goa trip multiple times with friends, all of which fell apart due to conflicting schedules (the classic Indian meme). Dreams of a Ladakh bike trip across Khardung La pass and traveling across Japan and Europe. Loves peaceful mountain getaways over crowded tourist spots."
+  },
+  {
+    "category": "Travel & Aspirations",
+    "topic": "Ladakh Road Trip Guide",
+    "content": "The classic Ladakh circuit runs Manali - Leh Highway or Srinagar - Leh Highway. High-altitude acclimatization in Leh for 48 hours is mandatory before crossing passes like Khardung La (17,582 ft) or Chang La. Key destinations: Pangong Tso lake, Nubra Valley, Hunder sand dunes, and Magnetic Hill."
+  },
+  {
+    "category": "Mindset & Goals",
+    "topic": "Current Aspirations",
+    "content": "Goal is to build autonomous, high-impact software products, master generative AI systems, maintain physical fitness, and achieve complete creative and financial freedom. Strongly dislikes corporate bureaucracy, useless meetings, and micromanagement."
+  },
+  {
+    "category": "Social & Communication",
+    "topic": "Wingman Texting Principles",
+    "content": "When messaging someone you like or want to impress, avoid low-effort generic texts like 'Hey' or 'Nice pic'. Always anchor your text to something specific they posted or said (e.g. food, music, a shared interest). Never double-text within an hour of no response; maintain confident calm."
+  },
+  {
+    "category": "Social & Communication",
+    "topic": "Corporate Meeting Deflection",
+    "content": "To politely decline unnecessary meetings without offending stakeholders, propose asynchronous updates: 'To ensure critical deliverables for this sprint stay on track, I can review the meeting notes and provide my updates asynchronously over Slack/email.'"
+  },
+  {
+    "category": "Mindset & Wellness",
+    "topic": "Overcoming Imposter Syndrome",
+    "content": "Imposter syndrome is common among high-performers because the more you learn, the more aware you become of the vast domain you don't know yet. Focus on your tangible build history: review code you wrote 12 months ago to see how much faster and cleaner you solve problems today. Compare yourself only to your past self."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "React Infinite Re-render Loop Fix",
+    "content": "A React infinite re-render loop occurs when state updates happen inside useEffect without a proper dependency array, or when an updater is invoked immediately in JSX like onClick={setCount(count + 1)}. Fix: Use an arrow function in JSX: onClick={() => setCount(prev => prev + 1)}, ensure dependency arrays only contain external dependencies, and use functional state updates."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "Docker Container Exit Code 0",
+    "content": "A Docker container terminates with exit code 0 when its primary foreground process (PID 1) finishes execution. To keep it running, ensure the command does not daemonize into the background. For development, use interactive terminal flags (-it) or command directives like 'tail -f /dev/null' or run servers in foreground mode."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "Git Non-Fast-Forward Push Rejection",
+    "content": "When Git rejects a push with 'non-fast-forward', it means the remote branch has commits that do not exist in your local branch. Never blindly force-push. Resolution: Run 'git pull --rebase origin <branch_name>', resolve any conflicts locally in your editor, run 'git rebase --continue', and then push cleanly."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "Python Memory Leak Detection & Fixes",
+    "content": "Python memory leaks are caused by lingering references in global collections, circular references, or uncollected objects in C-extensions. To detect: Use Python's built-in tracemalloc module (tracemalloc.start(), take_snapshot()). To fix: Use generators (yield) instead of eager lists, call gc.collect() after heavy data processing, and avoid caching large objects globally."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "Node.js Unhandled Promise Rejection",
+    "content": "An unhandled promise rejection in Node.js occurs when an async function or Promise rejects without a .catch() handler, causing modern Node.js versions to terminate the process. Fix: Wrap async/await calls in try...catch blocks and register a global process-level handler: process.on('unhandledRejection', (reason, promise) => { ... })."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "Linux Freeing a Stuck Port",
+    "content": "To release a port already in use on Linux (e.g. port 8080 or 3000): Use 'sudo fuser -k 8080/tcp' for an immediate kill, or inspect the process with 'sudo lsof -i :8080' and terminate the PID using 'sudo kill -9 <PID>'."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "SQL Index Optimization & Query Bypass",
+    "content": "Indexes are bypassed by the SQL optimizer when functions wrap indexed columns in WHERE clauses (e.g. WHERE LOWER(email) = ...), when leading wildcards are used (LIKE '%term'), or when data types mismatch. Always use EXPLAIN ANALYZE to verify index scan vs sequential scan, and create functional indexes when needed."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "HTTP 401 Unauthorized vs 403 Forbidden",
+    "content": "HTTP 401 Unauthorized indicates missing or invalid authentication credentials (user identity unknown; redirect to login). HTTP 403 Forbidden indicates the user is authenticated, but lacks sufficient permissions/roles to access the requested resource (access denied; do not redirect to login)."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "FastAPI async def vs def",
+    "content": "In FastAPI, 'async def' runs directly on the single-threaded event loop and must only use non-blocking 'await' operations. Using blocking operations (like time.sleep or standard SQL drivers) inside 'async def' blocks all requests. For synchronous or blocking I/O, declare regular 'def'; FastAPI automatically offloads it to an external threadpool."
+  },
+  {
+    "category": "Coding & Tech",
+    "topic": "PyTorch CUDA Out of Memory (OOM) Optimization",
+    "content": "To fix CUDA OOM in PyTorch: 1) Decrease batch size and set gradient_accumulation_steps to preserve effective batch size. 2) Enable automatic mixed precision with torch.autocast('cuda', dtype=torch.bfloat16). 3) Enable gradient checkpointing (model.gradient_checkpointing_enable()). 4) Wrap inference in with torch.no_grad(): and call torch.cuda.empty_cache()."
+  },
+  {
+    "category": "Fitness & Lifestyle",
+    "topic": "Daily Protein Intake Calculations",
+    "content": "For resistance training and hypertrophy, optimal protein intake is 1.6 to 2.2 grams per kilogram of total body mass. For a 75kg person, this equals 120 to 150 grams of protein daily. Realistic food sources: Whole eggs (6g each), chicken breast (31g per 100g), paneer (18g per 100g), Greek yogurt (10g per 100g), and whey protein isolate (25g per scoop)."
+  },
+  {
+    "category": "Fitness & Lifestyle",
+    "topic": "Creatine Monohydrate Scientific Evidence",
+    "content": "Creatine Monohydrate (3-5g daily) is safe and does not cause hair loss or kidney damage in healthy individuals. The hair loss claim traces back to a single 2009 study on 20 rugby players that was never replicated. Daily maintenance of 3-5g with adequate hydration (3-4 liters) supports ATP regeneration, cognitive performance, and lean strength gains."
+  }
+]
