@@ -11,8 +11,9 @@ dist/
 *.egg-info/
 
 # Model checkpoints & heavy weights
-Phi-3-BestFriend/
 *.gguf
+!Modelfile.gguf
+!**/Modelfile.gguf
 *.bin
 *.pt
 *.pth
